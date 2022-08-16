@@ -6,4 +6,4 @@ object-oriented programming: prototypal inheritance, constructor functions (ES5)
 asynchronous JavaScript: the event loop, promises, async/await, and error handling. You will use these to access data from third-party APIs with AJAX calls;
 modern tools that are used by professional web developers: NPM, Parcel (module bundler), Babel, and ES6 modules.
 
-https://globallogic.udemy.com/course/the-complete-javascript-course
+https://udemy.com/course/the-complete-javascript-course
